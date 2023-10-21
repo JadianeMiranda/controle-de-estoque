@@ -1,4 +1,4 @@
-# controle-de-estoque🚲
+# Controle-de-estoque🚲
 Um programa simples feito com Python, que faz o controle de estoque de peças de uma loja de bicicletaria. Possibilita o cadastro, consulta e remoção de peças do inventário da loja.
 
 #  Como funciona⚙️ :
